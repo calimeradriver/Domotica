@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomoticaLibrary", "DomoticaLibrary\DomoticaLibrary.csproj", "{4C31DCFB-009E-4F2B-9A43-9BF9DEEBE2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomoticaWebService", "DomoticaWebService\DomoticaWebService.csproj", "{F5BB637C-B468-42EE-8692-2AFA9C482E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomoticaService", "DomoticaService\DomoticaService.csproj", "{5F1870CB-91D1-478D-B687-3B9708C50FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomoticaWindowsForms", "DomoticaWindowsForms\DomoticaWindowsForms.csproj", "{52E2929F-4FD4-4658-80D6-FED178E39F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "..\SQL\SQL.csproj", "{2ED8388A-E6EA-4A23-9E34-F2BA0878BDED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TODO", "TODO", "{111E4E75-F60C-481B-828C-C966CAE3A728}"
+	ProjectSection(SolutionItems) = preProject
+		TODO.txt = TODO.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendjuurenLibrary", "..\VendjuurenLibrary\VendjuurenLibrary.csproj", "{7B18942F-9D9E-4BA6-9973-6B6D9899D8D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X10", "X10\X10.csproj", "{E2B1B682-583A-4EA6-993A-300DE4DE8F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radiographically", "Radiographically\Radiographically.csproj", "{70A9E08A-B853-4A12-B599-4970BFBAF17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomoticaWeb", "DomoticaWeb\DomoticaWeb.csproj", "{4FEB9D22-5B1C-4FBB-83C2-A6E6F032FB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomoticaTest", "DomoticaTest\DomoticaTest.csproj", "{097D7924-25F9-457C-BBC6-2005D0BCEA9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{353F6D35-D1FD-4B54-9DCF-0878D69254CE}"
+	ProjectSection(SolutionItems) = preProject
+		Domotica.vsmdi = Domotica.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Domotica.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C31DCFB-009E-4F2B-9A43-9BF9DEEBE2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C31DCFB-009E-4F2B-9A43-9BF9DEEBE2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C31DCFB-009E-4F2B-9A43-9BF9DEEBE2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C31DCFB-009E-4F2B-9A43-9BF9DEEBE2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BB637C-B468-42EE-8692-2AFA9C482E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB637C-B468-42EE-8692-2AFA9C482E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB637C-B468-42EE-8692-2AFA9C482E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB637C-B468-42EE-8692-2AFA9C482E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1870CB-91D1-478D-B687-3B9708C50FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1870CB-91D1-478D-B687-3B9708C50FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1870CB-91D1-478D-B687-3B9708C50FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1870CB-91D1-478D-B687-3B9708C50FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E2929F-4FD4-4658-80D6-FED178E39F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E2929F-4FD4-4658-80D6-FED178E39F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E2929F-4FD4-4658-80D6-FED178E39F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E2929F-4FD4-4658-80D6-FED178E39F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED8388A-E6EA-4A23-9E34-F2BA0878BDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED8388A-E6EA-4A23-9E34-F2BA0878BDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED8388A-E6EA-4A23-9E34-F2BA0878BDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED8388A-E6EA-4A23-9E34-F2BA0878BDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B18942F-9D9E-4BA6-9973-6B6D9899D8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B18942F-9D9E-4BA6-9973-6B6D9899D8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B18942F-9D9E-4BA6-9973-6B6D9899D8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B18942F-9D9E-4BA6-9973-6B6D9899D8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B1B682-583A-4EA6-993A-300DE4DE8F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B1B682-583A-4EA6-993A-300DE4DE8F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B1B682-583A-4EA6-993A-300DE4DE8F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B1B682-583A-4EA6-993A-300DE4DE8F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A9E08A-B853-4A12-B599-4970BFBAF17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A9E08A-B853-4A12-B599-4970BFBAF17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A9E08A-B853-4A12-B599-4970BFBAF17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A9E08A-B853-4A12-B599-4970BFBAF17B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEB9D22-5B1C-4FBB-83C2-A6E6F032FB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEB9D22-5B1C-4FBB-83C2-A6E6F032FB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEB9D22-5B1C-4FBB-83C2-A6E6F032FB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEB9D22-5B1C-4FBB-83C2-A6E6F032FB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097D7924-25F9-457C-BBC6-2005D0BCEA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097D7924-25F9-457C-BBC6-2005D0BCEA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097D7924-25F9-457C-BBC6-2005D0BCEA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097D7924-25F9-457C-BBC6-2005D0BCEA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

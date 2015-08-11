@@ -1,0 +1,10 @@
+D:\Development\Projects\devc#2008\Domotica\Radiographically\bin\Release\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\Radiographically\bin\Release\Vendjuuren.Domotica.Radiographically.pdb
+D:\Development\Projects\devc#2008\Domotica\Radiographically\obj\Release\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\Radiographically\obj\Release\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\Radiographically\obj\Release\Vendjuuren.Domotica.Radiographically.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\bin\Release\Vendjuuren.Domotica.Radiographically.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\bin\Release\Vendjuuren.Domotica.Radiographically.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\obj\Release\ResolveAssemblyReference.cache
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\obj\Release\Vendjuuren.Domotica.Radiographically.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\obj\Release\Vendjuuren.Domotica.Radiographically.pdb

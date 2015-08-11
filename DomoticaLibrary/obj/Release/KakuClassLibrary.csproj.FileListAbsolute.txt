@@ -1,0 +1,5 @@
+D:\Development\Projects\devc#2008\KakuClassLibrary\bin\Release\KakuClassLibrary.dll
+D:\Development\Projects\devc#2008\KakuClassLibrary\bin\Release\KakuClassLibrary.pdb
+D:\Development\Projects\devc#2008\KakuClassLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\KakuClassLibrary\obj\Release\KakuClassLibrary.dll
+D:\Development\Projects\devc#2008\KakuClassLibrary\obj\Release\KakuClassLibrary.pdb

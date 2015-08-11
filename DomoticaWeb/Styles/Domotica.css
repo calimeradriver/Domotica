@@ -1,0 +1,265 @@
+﻿/* http://astronautweb.co/snippet/font-awesome/ */
+body
+{
+  background-color: #676767;
+}
+
+/*.nav a.icon {
+  position: relative;
+  
+}
+
+.nav a.icon .fa 
+{
+  margin-left: 40px;
+  top: 6px;
+  left: 10px;
+  font-size: 18px;
+}*/
+
+.device i
+{
+  width: 100%;
+}
+
+i span
+{
+  margin-left: 3px;
+}
+
+.error
+{
+  color: Orange;
+}
+
+.statusBar
+{
+  width: 100%;
+  height: 20px;
+  color: White;
+  background-color: black;
+  margin-bottom: 5px; /* other CSS styles */
+  border: 1px solid #6E2F97; /* some kind of blue border */ /* round the corners */
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px; /* make it glow! */
+  -webkit-box-shadow: 0px 0px 4px #9093EE;
+  -moz-box-shadow: 0px 0px 4px #9093EE;
+  box-shadow: 0px 0px 4px #9093EE; /* some variation of blue for the shadow */
+  font-size: 8pt;
+}
+
+.statusBar i
+{
+  padding-right: 9px;
+}
+
+.statusBar .menu
+{
+  cursor: pointer;
+  color: White;
+  background: black;
+  width: 18px;
+  border: none;
+}
+
+.statusBar .menu
+{
+  cursor: pointer;
+  color: White;
+  background: black;
+  width: 18px;
+  border: none;
+}
+
+.statusBar .menu .ui-state-active
+{
+  border: Solid 1px #6E2F97 !important;
+  background-color: Black !important;
+}
+
+.ui-menu:hover
+{
+  border: Solid 1px #6E2F97 !important;
+  background-color: Black !important;
+}
+
+.ui-menu .ui-menu-item:hover
+{
+  border: Solid 1px #6E2F97 !important;
+  background-color: Black !important;
+}
+
+
+
+.statusBar .menu ul
+{
+  color: White;
+  background: black;
+}
+
+.statusBar .menu ul li
+{
+  color: White;
+  background: black;
+  width: 150px;
+}
+
+/* Verwijder het standaard pijltje van het UI menu */
+.ui-icon-carat-1-e
+{
+  display: none !important;
+}
+
+.device
+{
+  width: 100%;
+  height: 70px;
+  color: White;
+  background-color: black;
+  margin-bottom: 5px; /* other CSS styles */
+  border: 1px solid #6E2F97; /* some kind of blue border */ /* round the corners */
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px; /* make it glow! */
+  -webkit-box-shadow: 0px 0px 4px #9093EE;
+  -moz-box-shadow: 0px 0px 4px #9093EE;
+  box-shadow: 0px 0px 4px #9093EE; /* some variation of blue for the shadow */
+  font-size: 8pt;
+}
+.left
+{
+}
+.device i
+{
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.powerON
+{
+  color: Yellow;
+}
+.powerOFF
+{
+  color: White;
+}
+td
+{
+  padding: 0px;
+}
+.device .left
+{
+  padding-left: 5px;
+}
+.device .right
+{
+  width: 170px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+.left span
+{
+  text-align: left;
+}
+
+.left .location
+{
+  float: left;
+}
+
+.icon
+{
+  width: auto !important;
+}
+
+.Fotolijstje:before
+{
+  content: "\f03e" !important; /* fa-picture-o */
+  font-family: FontAwesome !important;
+  font-size: 24px;
+}
+
+.Airco:before
+{
+  content: "\f069" !important; /* fa-asterisk */
+  font-family: FontAwesome !important;
+  font-size: 24px;
+}
+
+.Zwembad:before
+{
+  content: "\f1cd" !important; /* fa-life-ring */
+  font-family: FontAwesome !important;
+  font-size: 24px;
+}
+
+.statusBar .right
+{
+  width: 250px;
+  text-align: right;
+}
+
+.right span
+{
+  text-align: right;
+}
+ul.button
+{
+  list-style-type: none;
+}
+
+.right i.date
+{
+  text-align: right;
+}
+
+.button
+{
+  float: left;
+  font-size: 10pt;
+  white-space: nowrap;
+  cursor: pointer;
+  padding: 4px 4px 4px 4px;
+  margin: 2px;
+  text-align: right;
+  border: 1px solid #6E2F97; /* some kind of blue border */ /* round the corners */
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px; /* make it glow! */
+  -webkit-box-shadow: 0px 0px 4px #9093EE;
+  -moz-box-shadow: 0px 0px 4px #9093EE;
+  box-shadow: 0px 0px 4px #9093EE; /* some variation of blue for the shadow */
+}
+.button i
+{
+  float: left;
+}
+
+.button .powerOn
+{
+}
+
+.percentage
+{
+  width: 150px;
+  height: 15px;
+}
+
+span.badge
+{
+  background-color: #21232B !important;
+  border-radius: 10px;
+  color: #fff !important;
+  display: inline-block;
+  font-weight: bold;
+  font-style: italic;
+  margin-left: 5px !important;
+  margin-top: -5px !important;
+  min-width: 15px;
+  padding: 1px 5px !important;
+  text-align: center;
+  font-size: 14px;
+  border: 1px solid #6E2F97;
+  -webkit-box-shadow: 0px 0px 4px #9093EE;
+  -moz-box-shadow: 0px 0px 4px #9093EE;
+  box-shadow: 0px 0px 4px #9093EE; /* some variation of blue for the shadow }

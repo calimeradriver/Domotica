@@ -1,0 +1,30 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Program Files (x86)\DomoticaService\Vendjuuren.Domotica.Service.exe assembly's progress.
+The file is located at C:\Program Files (x86)\DomoticaService\Vendjuuren.Domotica.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.UnauthorizedAccessException: Access to the path 'C:\Program Files (x86)\DomoticaService\Vendjuuren.Domotica.Service.InstallLog' is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Program Files (x86)\DomoticaService\Vendjuuren.Domotica.Service.exe assembly's progress.
+The file is located at C:\Program Files (x86)\DomoticaService\Vendjuuren.Domotica.Service.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.UnauthorizedAccessException: Access to the path 'C:\Program Files (x86)\DomoticaService\Vendjuuren.Domotica.Service.InstallLog' is denied.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Program Files (x86)\DomoticaService\DomoticaService.exe assembly's progress.
+The file is located at C:\Program Files (x86)\DomoticaService\DomoticaService.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.UnauthorizedAccessException: Access to the path 'C:\Program Files (x86)\DomoticaService\DomoticaService.InstallLog' is denied.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.

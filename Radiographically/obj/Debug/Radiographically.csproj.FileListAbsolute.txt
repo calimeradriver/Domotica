@@ -1,0 +1,15 @@
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\bin\Debug\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\bin\Debug\Vendjuuren.Domotica.Radiographically.pdb
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\obj\Debug\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\obj\Debug\Vendjuuren.Domotica.Radiographically.pdb
+D:\Development\Projects\devc#2008\Domotica\Radiographically\bin\Debug\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\Radiographically\bin\Debug\Vendjuuren.Domotica.Radiographically.pdb
+D:\Development\Projects\devc#2008\Domotica\Radiographically\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\Radiographically\obj\Debug\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\Radiographically\obj\Debug\Vendjuuren.Domotica.Radiographically.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\bin\Debug\Vendjuuren.Domotica.Radiographically.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\bin\Debug\Vendjuuren.Domotica.Radiographically.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\obj\Debug\ResolveAssemblyReference.cache
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\obj\Debug\Vendjuuren.Domotica.Radiographically.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\Radiographically\obj\Debug\Vendjuuren.Domotica.Radiographically.pdb

@@ -1,0 +1,26 @@
+﻿Installing assembly 'D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe
+   logfile = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.InstallLog
+Installing service DomoticaService...
+Creating EventLog source DomoticaService in log Application...
+Rolling back assembly 'D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe
+   logfile = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.InstallLog
+Restoring event log to previous state for source DomoticaService.
+Installing assembly 'D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe
+   logfile = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.InstallLog
+Installing service DomoticaService...
+Service DomoticaService has been successfully installed.
+Creating EventLog source DomoticaService in log Application...
+Committing assembly 'D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe
+   logfile = D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.InstallLog

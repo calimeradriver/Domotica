@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b007790b-29b0-479f-94c4-4688f9d78d2c" name="dennis@SERVER 2015-08-04 16:30:57" runUser="VENDJUUREN\dennis" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b764eab8-ff7e-4592-8690-2360f6019acd">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\TestResults\dennis_SERVER 2015-08-04 16_30_57">
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\VendjuurenLibrary\bin\Debug\Vendjuuren.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaLibrary\bin\Debug\Vendjuuren.Domotica.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\SQL\bin\Debug\Vendjuuren.SQL.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Json60r8\Bin\Net35\Newtonsoft.Json.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2015-08-04T16:30:57.8941742+02:00" queuing="2015-08-04T16:31:02.7126560+02:00" start="2015-08-04T16:31:03.4197267+02:00" finish="2015-08-04T16:31:46.2860129+02:00" />
+  <TestDefinitions>
+    <UnitTest name="SunriseSunSetAPITest" storage="e:\old mirror 05-01-13\development\projects\devc#2008\domotica\domoticatest\bin\debug\domoticatest.dll" id="de50796f-d32f-05a1-4511-abda9a4af00d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="41fa4ae0-3e61-4d90-8789-1bf148ed334a" />
+      <TestMethod codeBase="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaTest\bin\Debug\DomoticaTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DomoticaTest.APIServicesTest, DomoticaTest" name="SunriseSunSetAPITest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="de50796f-d32f-05a1-4511-abda9a4af00d" executionId="41fa4ae0-3e61-4d90-8789-1bf148ed334a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="41fa4ae0-3e61-4d90-8789-1bf148ed334a" testId="de50796f-d32f-05a1-4511-abda9a4af00d" testName="SunriseSunSetAPITest" computerName="SERVER" duration="00:00:39.4303844" startTime="2015-08-04T16:31:03.6907538+02:00" endTime="2015-08-04T16:31:44.3518195+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <DebugTrace>Test: DatabaseSelect; SELECT *  FROM [Service] WHERE [Service].ID='a97dda12-90ea-4076-b03d-18627e956949'
+Test: DatabaseSelect; SELECT *  FROM [Service] WHERE [Service].ID='a97dda12-90ea-4076-b03d-18627e956949'
+Test: DatabaseSelect; SELECT *  FROM [Service] WHERE [Service].ID='a97dda12-90ea-4076-b03d-18627e956949'
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

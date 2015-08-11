@@ -1,0 +1,5 @@
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\bin\Debug\Vendjuuren.Domotica.KlikaanKlikuit.dll
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\bin\Debug\Vendjuuren.Domotica.KlikaanKlikuit.pdb
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\obj\Debug\Vendjuuren.Domotica.KlikaanKlikuit.dll
+D:\Development\Projects\devc#2008\Domotica\KlikaanKlikuit\obj\Debug\Vendjuuren.Domotica.KlikaanKlikuit.pdb

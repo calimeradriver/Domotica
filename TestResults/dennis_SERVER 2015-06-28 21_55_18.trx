@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="16517edc-2570-4d67-8868-3d710b8c5836" name="dennis@SERVER 2015-06-28 21:55:18" runUser="VENDJUUREN\dennis" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b764eab8-ff7e-4592-8690-2360f6019acd">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\TestResults\dennis_SERVER 2015-06-28 21_55_18">
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\VendjuurenLibrary\bin\Debug\Vendjuuren.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaLibrary\bin\Debug\Vendjuuren.Domotica.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\SQL\bin\Debug\Vendjuuren.SQL.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Json60r8\Bin\Net35\Newtonsoft.Json.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SERVER" outcome="Error" timestamp="2015-06-28T21:56:30.9712000+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2015-06-28T21:55:18.5248000+02:00" queuing="2015-06-28T21:55:20.7712000+02:00" start="2015-06-28T21:55:20.9740000+02:00" finish="2015-06-28T21:56:30.9712000+02:00" />
+  <TestDefinitions>
+    <UnitTest name="ClientSendMessageGetAllDevicesTest" storage="e:\old mirror 05-01-13\development\projects\devc#2008\domotica\domoticatest\bin\debug\domoticatest.dll" id="e3e71746-aa9d-a78e-fca2-030f924a59c0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="a4241bd6-12f2-46fc-9444-79af16ee44d9" />
+      <TestMethod codeBase="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaTest\bin\Debug\DomoticaTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DomoticaTest.TcpTest, DomoticaTest" name="ClientSendMessageGetAllDevicesTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e3e71746-aa9d-a78e-fca2-030f924a59c0" executionId="a4241bd6-12f2-46fc-9444-79af16ee44d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a4241bd6-12f2-46fc-9444-79af16ee44d9" testId="e3e71746-aa9d-a78e-fca2-030f924a59c0" testName="ClientSendMessageGetAllDevicesTest" computerName="SERVER" duration="00:00:23.4561021" startTime="2015-06-28T21:55:21.1300000+02:00" endTime="2015-06-28T21:55:45.5596000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <DebugTrace>Test: TcpServerStarted; 127.0.0.1 is listen on port: 8222
+Test: DatabaseSelect; SELECT *  FROM [Device]
+Test: TcpClientConnected; Client: [2216] 127.0.0.1
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='3a5830f0-65ef-4b29-a0d6-757403dcbe6e'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='3a5830f0-65ef-4b29-a0d6-757403dcbe6e'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='957bcac7-73d0-4988-867a-75258eb706f1'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='957bcac7-73d0-4988-867a-75258eb706f1'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='957bcac7-73d0-4988-867a-75258eb706f1'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='3a5830f0-65ef-4b29-a0d6-757403dcbe6e'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='957bcac7-73d0-4988-867a-75258eb706f1'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='3a5830f0-65ef-4b29-a0d6-757403dcbe6e'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

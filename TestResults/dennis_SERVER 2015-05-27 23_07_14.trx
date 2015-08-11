@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="11cd7e38-38c6-455d-bdbe-46c71853cae5" name="dennis@SERVER 2015-05-27 23:07:14" runUser="VENDJUUREN\dennis" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b764eab8-ff7e-4592-8690-2360f6019acd">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\TestResults\dennis_SERVER 2015-05-27 23_07_14">
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\VendjuurenLibrary\bin\Debug\Vendjuuren.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaLibrary\bin\Debug\Vendjuuren.Domotica.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\SQL\bin\Debug\Vendjuuren.SQL.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SERVER" outcome="Error" timestamp="2015-05-27T23:09:29.5582000+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2015-05-27T23:07:14.1758000+02:00" queuing="2015-05-27T23:07:15.8258000+02:00" start="2015-05-27T23:07:16.0358000+02:00" finish="2015-05-27T23:09:29.5582000+02:00" />
+  <TestDefinitions>
+    <UnitTest name="ClientSendMessageTest" storage="e:\old mirror 05-01-13\development\projects\devc#2008\domotica\domoticatest\bin\debug\domoticatest.dll" id="78fe5d3b-84ba-ccb7-8319-d09cdb691e77">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="ccf8303b-fb05-4f02-9dde-5b5d49c7f6b1" />
+      <TestMethod codeBase="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaTest\bin\Debug\DomoticaTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DomoticaTest.TcpTest, DomoticaTest" name="ClientSendMessageTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="78fe5d3b-84ba-ccb7-8319-d09cdb691e77" executionId="ccf8303b-fb05-4f02-9dde-5b5d49c7f6b1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ccf8303b-fb05-4f02-9dde-5b5d49c7f6b1" testId="78fe5d3b-84ba-ccb7-8319-d09cdb691e77" testName="ClientSendMessageTest" computerName="SERVER" duration="00:02:04.1444849" startTime="2015-05-27T23:07:16.1818000+02:00" endTime="2015-05-27T23:09:21.1042000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <DebugTrace>Test: TcpServerStarted; 127.0.0.1 is listen on port: 8222
+Test: DatabaseSelect; SELECT *  FROM [Device]
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='00000000-0000-0000-0000-000000000000'
+Test: DatabaseSelect; SELECT *  FROM [Device] WHERE [Device].ID='9ac77c6f-838f-49ab-95d1-b7e25cae2f4b'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='3849e622-416f-4dcd-8b0f-b2aa1268f531'
+Test: DatabaseSelect; SELECT *  FROM [Group] WHERE [Group].ID='bf9a5d92-d21d-4428-9549-e63d23e28b63'
+Test: TcpClientConnected; Client: [2216] 127.0.0.1
+Test: DatabaseException; Object reference not set to an instance of an object.
+Excuted query: SELECT *  FROM [Model] WHERE [Model].ID='6ce274c4-90a2-4eea-a59e-9b8f32cec507'
+Test: DatabaseException; Object reference not set to an instance of an object.
+Excuted query: SELECT *  FROM [Brand] WHERE [Brand].ID='00000000-0000-0000-0000-000000000000'
+Test: DatabaseException; Object reference not set to an instance of an object.
+Excuted query: SELECT *  FROM [Model] WHERE [Model].ID='6ce274c4-90a2-4eea-a59e-9b8f32cec507'
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

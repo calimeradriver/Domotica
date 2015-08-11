@@ -1,0 +1,30 @@
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\obj\Release\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.WebService.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.WebService.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Library.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.X10.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.SQL.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Library.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Library.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Radiographically.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.X10.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.SQL.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Library.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\obj\Release\Vendjuuren.Domotica.WebService.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWebService\obj\Release\Vendjuuren.Domotica.WebService.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.WebService.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.WebService.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Library.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.X10.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.SQL.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Library.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Radiographically.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Library.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Radiographically.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.X10.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.SQL.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\bin\Vendjuuren.Domotica.Library.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\obj\Release\ResolveAssemblyReference.cache
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\obj\Release\Vendjuuren.Domotica.WebService.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWebService\obj\Release\Vendjuuren.Domotica.WebService.pdb

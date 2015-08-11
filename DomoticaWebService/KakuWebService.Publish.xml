@@ -1,0 +1,26 @@
+<publishData>
+  <publishTarget publishUrl="D:\Websites\kimvanduuren.nl\domotica\">
+    <file relUrl="Global.asax" publishTime="06/02/2009 20:05:25" />
+    <file relUrl="TPC200/TPC200L10.dll" publishTime="06/03/2009 09:26:35" />
+    <file relUrl="Xml/DeviceConfigList.xml" publishTime="10/10/2009 15:15:57" />
+    <file relUrl="Web.config" publishTime="06/02/2009 20:17:03" />
+    <file relUrl="bin/KakuWebService.pdb" publishTime="01/20/2011 12:57:27" />
+    <file relUrl="bin/KakuClassLibrary.pdb" publishTime="01/16/2011 02:30:41" />
+    <file relUrl="bin/KakuClassLibrary.dll" publishTime="01/16/2011 02:30:41" />
+    <file relUrl="WebService.asmx" publishTime="06/02/2009 18:31:30" />
+    <file relUrl="bin/KakuWebService.dll" publishTime="01/20/2011 12:57:27" />
+    <file relUrl="Xml/DeviceMappingList.xml" publishTime="10/10/2009 15:15:24" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\Websites\kimvanduuren.nl\test\Domotica\">
+    <file relUrl="Global.asax" publishTime="06/02/2009 20:05:25" />
+    <file relUrl="TPC200/TPC200L10.dll" publishTime="06/03/2009 09:26:35" />
+    <file relUrl="Xml/DeviceConfigList.xml" publishTime="10/10/2009 15:15:57" />
+    <file relUrl="Web.config" publishTime="06/02/2009 20:17:03" />
+    <file relUrl="bin/KakuWebService.pdb" publishTime="01/20/2011 12:52:07" />
+    <file relUrl="bin/KakuClassLibrary.pdb" publishTime="01/16/2011 02:30:41" />
+    <file relUrl="bin/KakuClassLibrary.dll" publishTime="01/16/2011 02:30:41" />
+    <file relUrl="WebService.asmx" publishTime="06/02/2009 18:31:30" />
+    <file relUrl="bin/KakuWebService.dll" publishTime="01/20/2011 12:52:07" />
+    <file relUrl="Xml/DeviceMappingList.xml" publishTime="10/10/2009 15:15:24" />
+  </publishTarget>
+</publishData>

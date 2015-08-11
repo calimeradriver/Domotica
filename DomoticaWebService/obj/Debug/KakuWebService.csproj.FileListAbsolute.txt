@@ -1,0 +1,7 @@
+D:\Development\Projects\devc#2008\KakuWebService\KakuWebService\bin\KakuWebService.dll
+D:\Development\Projects\devc#2008\KakuWebService\KakuWebService\bin\KakuWebService.pdb
+D:\Development\Projects\devc#2008\KakuWebService\KakuWebService\bin\KakuClassLibrary.dll
+D:\Development\Projects\devc#2008\KakuWebService\KakuWebService\bin\KakuClassLibrary.pdb
+D:\Development\Projects\devc#2008\KakuWebService\KakuWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\KakuWebService\KakuWebService\obj\Debug\KakuWebService.dll
+D:\Development\Projects\devc#2008\KakuWebService\KakuWebService\obj\Debug\KakuWebService.pdb

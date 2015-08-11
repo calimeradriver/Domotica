@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="44a5a0a2-df7b-4a32-88b9-17a87566a0ce" name="dennis@SERVER 2015-05-27 23:12:20" runUser="VENDJUUREN\dennis" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b764eab8-ff7e-4592-8690-2360f6019acd">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\TestResults\dennis_SERVER 2015-05-27 23_12_20">
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\VendjuurenLibrary\bin\Debug\Vendjuuren.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaLibrary\bin\Debug\Vendjuuren.Domotica.Library.dll" />
+      <DeploymentItem filename="E:\Old mirror 05-01-13\Development\Projects\devc#2008\SQL\bin\Debug\Vendjuuren.SQL.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2015-05-27T23:12:20.7030000+02:00" queuing="2015-05-27T23:12:21.1720000+02:00" start="2015-05-27T23:12:21.3410000+02:00" finish="2015-05-27T23:12:22.2350000+02:00" />
+  <TestDefinitions>
+    <UnitTest name="ServerStartTest" storage="e:\old mirror 05-01-13\development\projects\devc#2008\domotica\domoticatest\bin\debug\domoticatest.dll" id="bf8395fa-70d7-f3ef-d5a8-30403c6ab2ba">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="39b3ddbc-3a27-48d7-9679-94b9f5e568fa" />
+      <TestMethod codeBase="E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaTest\bin\Debug\DomoticaTest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DomoticaTest.TcpTest, DomoticaTest" name="ServerStartTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="bf8395fa-70d7-f3ef-d5a8-30403c6ab2ba" executionId="39b3ddbc-3a27-48d7-9679-94b9f5e568fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="39b3ddbc-3a27-48d7-9679-94b9f5e568fa" testId="bf8395fa-70d7-f3ef-d5a8-30403c6ab2ba" testName="ServerStartTest" computerName="SERVER" duration="00:00:00.2218853" startTime="2015-05-27T23:12:21.3930000+02:00" endTime="2015-05-27T23:12:22.1890000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <DebugTrace>Test: TcpServerStarted; 127.0.0.1 is listen on port: 8222
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

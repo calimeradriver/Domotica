@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MappingList>
+  <Mapping>
+    <Source group="A" number="1" />
+    <Destination group="C" number="1" />
+  </Mapping>
+  <Mapping>
+    <Source group="A" number="2" />
+    <Destination group="C" number="2" />
+  </Mapping>
+</MappingList>

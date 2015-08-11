@@ -1,0 +1,42 @@
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\DomoticaWindowsForms.csproj.GenerateResource.Cache
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Windows.exe.config
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Windows.exe
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Windows.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Library.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.SQL.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.X10.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Library.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Library.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.X10.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Radiographically.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Library.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.SQL.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.Form1.resources
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.Overview.resources
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.Properties.Resources.resources
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.ShowTable.resources
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.exe
+D:\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Windows.exe.config
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Windows.exe
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Windows.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Library.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Library.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.SQL.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.X10.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Radiographically.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Library.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.X10.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Radiographically.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.SQL.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\bin\Release\Vendjuuren.Domotica.Library.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\ResolveAssemblyReference.cache
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.Form1.resources
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.Overview.resources
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.Properties.Resources.resources
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.ShowTable.resources
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\DomoticaWindowsForms.csproj.GenerateResource.Cache
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.exe
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaWindowsForms\obj\Release\Vendjuuren.Domotica.Windows.pdb

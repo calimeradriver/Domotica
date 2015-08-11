@@ -1,0 +1,10 @@
+D:\Development\Projects\devc#2008\Domotica\X10\bin\Debug\Vendjuuren.Domotica.X10.dll
+D:\Development\Projects\devc#2008\Domotica\X10\bin\Debug\Vendjuuren.Domotica.X10.pdb
+D:\Development\Projects\devc#2008\Domotica\X10\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\X10\obj\Debug\Vendjuuren.Domotica.X10.dll
+D:\Development\Projects\devc#2008\Domotica\X10\obj\Debug\Vendjuuren.Domotica.X10.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\X10\bin\Debug\Vendjuuren.Domotica.X10.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\X10\bin\Debug\Vendjuuren.Domotica.X10.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\X10\obj\Debug\ResolveAssemblyReference.cache
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\X10\obj\Debug\Vendjuuren.Domotica.X10.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\X10\obj\Debug\Vendjuuren.Domotica.X10.pdb

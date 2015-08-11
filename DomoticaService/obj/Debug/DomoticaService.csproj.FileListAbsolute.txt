@@ -1,0 +1,47 @@
+D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe
+D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.pdb
+D:\Development\Projects\devc#2008\DomoticaService\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\DomoticaService\obj\Debug\DomoticaService.exe
+D:\Development\Projects\devc#2008\DomoticaService\obj\Debug\DomoticaService.pdb
+D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\KakuClassLibrary.dll
+D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\KakuClassLibrary.pdb
+D:\Development\Projects\devc#2008\DomoticaService\bin\Debug\DomoticaService.exe.config
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.exe.config
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.exe
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Library.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Library.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.SQL.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.X10.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Radiographically.dll
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Library.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.X10.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Radiographically.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Library.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.SQL.pdb
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\Vendjuuren.Domotica.Service.exe
+D:\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\Vendjuuren.Domotica.Service.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.exe.config
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.exe
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Library.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Library.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.SQL.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.X10.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Radiographically.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Library.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.X10.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Radiographically.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Library.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.SQL.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\ResolveAssemblyReference.cache
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\Vendjuuren.Domotica.Service.exe
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\Vendjuuren.Domotica.Service.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.exe.manifest
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Vendjuuren.Domotica.Service.application
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\Vendjuuren.Domotica.Service.exe.manifest
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\obj\Debug\Vendjuuren.Domotica.Service.application
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Newtonsoft.Json.dll
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Newtonsoft.Json.pdb
+E:\Old mirror 05-01-13\Development\Projects\devc#2008\Domotica\DomoticaService\bin\Debug\Newtonsoft.Json.xml

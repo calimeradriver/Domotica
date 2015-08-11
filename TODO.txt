@@ -1,0 +1,32 @@
+05-08-2015
+* Activiteiten: Opstaan, Slapen, Werken, Vakantie etc
+* Systeemtaken; ophalen API info; timer schema's etc
+
+03-08-2015
+* Schedulertaken aan sq-tabel toevoegen en APIservice updates via scheduler
+
+* http://phoenixinteractive.nl/websitebb/viewtopic.php?f=7&t=3 KAKUcli toepassen ivm. dimmen.
+03-06-2015:
+* Module adresleerknop maken
+* Bedrijfsteller (hand en/of auto)
+* Dimmen toevoegen
+* Bij een device change event static collection bijwerken.(Controller.ashx)
+
+30-12-2014:
+* Statics gebruikt in web, check of alles nog goed werkt
+* Test of er een event is na succesvol ontvangen en verwerken bericht op de server/service?
+
+Ouder:
+* records/commando's over tcp-ip versturen
+* TcpMessage encryption toepassen.
+* Windows service toegankelijk maken voor andere applicaties (TCP-IP) (http://www.switchonthecode.com/tutorials/csharp-tutorial-simple-threaded-tcp-server)
+
+* Program ondersteuning geven voor 'areas' (ruimtes)
+* Light scene tabel toevoegen en koppelen aan devices/areas
+
+* Offset DateTime column toevoegen aan Programs
+
+* Events toevoegen aan X10 library; DeviceOn, DeviceOff, Error
+
+NOTE:
+Database Restore; eerste _dev database naar file en dan restoren.
